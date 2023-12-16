@@ -1,11 +1,11 @@
 # Lotus-Cases
-3D printed cases to suit the Lotus 58 Glow keyboard
+3D printed cases to suit the [Lotus 58 Glow keyboard](https://github.com/TweetyDaBird/Lotus-Keyboard)
 
-These were all modeled/designed by MattBoog ( @matthijsboog on discord ) from input, impossible ideas and testing by TweetyDaBird.
+These were all modeled/designed by [MattBoog](https://github.com/MattBoog) ( @matthijsboog on discord ) from input, impossible ideas and testing by [TweetyDaBird](https://github.com/TweetyDaBird).
 
 As licensed you are free to use them for your Lotus 58 builds, and or re-model them with proper attribution, but not offer them for sale. 
 
-(If you for whatever reason want to do that, contact MattBoog to discuss permission)
+(If you for whatever reason want to do that, contact [MattBoog](https://github.com/MattBoog) to discuss permission)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
