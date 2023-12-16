@@ -5,7 +5,7 @@ These were all modeled/designed by MattBoog ( @matthijsboog on discord ) from in
 
 As licensed you are free to use them for your Lotus 58 builds, and or re-model them with proper attribution, but not offer them for sale. 
 
-(If you for whatever reason want to do that, contact MattBoog)
+(If you for whatever reason want to do that, contact MattBoog to discuss permission)
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
