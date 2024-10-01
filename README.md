@@ -1,7 +1,7 @@
 # Lotus58-Cases
 
 ## The 'official' 3D printed cases by MattBoog
-3D printed cases to suit the [Lotus 58 keyboard](https://github.com/TweetyDaBird/Lotus-58-Classic)
+3D printed cases to suit the [Lotus 58 Keyboard](https://github.com/TweetyDaBird/Lotus-58-Classic)
 
 These were all modeled/designed by [MattBoog](https://github.com/MattBoog) ( @matthijsboog on discord ) from input, impossible ideas and testing by [TweetyDaBird](https://github.com/TweetyDaBird).
 
