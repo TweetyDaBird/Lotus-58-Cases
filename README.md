@@ -27,7 +27,7 @@ All cases are open source and the designs belong to their respective publisher, 
 [HolySwitch - Lotus58 Stacked case](https://github.com/HolySwitch/lotus58-stacked-case) - Requires you to mount the controller on top.
 
 ***
-### For anyone designing a case etc, please feel free to add your link and make a pull request, I'm happy to add any designs.
+### For anyone designing a case etc, please feel free to add your link and make a pull request, I'm happy to add any designs.  
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
