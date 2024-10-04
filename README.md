@@ -9,6 +9,9 @@ As licensed you are free to use them for your Lotus 58 builds, and or re-model t
 
 If you for whatever reason want to sell these cases, contact [MattBoog](https://github.com/MattBoog) to discuss permission.
 
+## DXF files for making plates from whatever material you prefer.
+These files are exported directly from the PCB plates, and as such contain no tool kerf or adaptation for any specific material or type of cutting (CNC or laser). The switch holes are on the tighter side of CHerry MX spec, so if you have switches known to be tight, you should edit them accordingly. The plate should ideally be 1.6 mm thick for the switches to firmly lock into it. Using a thicker material may work, for things like acrylic etc, but may need some experimenting with tolerances. 
+
 ## Known working cases from other designers
 All cases are open source and the designs belong to their respective publisher, and are only listed here to make them easy to find when building a Lotus 58 Keyboard.
 
