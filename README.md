@@ -29,6 +29,8 @@ All cases are open source and the designs belong to their respective publisher, 
 ***
 ### For anyone designing a case etc, please feel free to add your link and make a pull request, I'm happy to add any designs.  
 
+***
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
