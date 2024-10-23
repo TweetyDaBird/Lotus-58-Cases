@@ -9,6 +9,13 @@ As licensed you are free to use them for your Lotus 58 builds, and or re-model t
 
 If you for whatever reason want to sell these cases, contact [MattBoog](https://github.com/MattBoog) to discuss permission.
 
+## DXF files for making CNC/laser cut plates
+These files are exported directly from the PCB plates, and as such contain no tool kerf or adaptation for any specific material or type of cutting (CNC or laser). 
+
+The switch holes are on the tighter side of Cherry MX spec, so if you have switches known to be tight, you should edit them accordingly. 
+
+The plate should ideally be 1.6 mm thick for the switches to firmly lock into it. Using a thicker material may work, for things like acrylic etc, but may need some experimenting with tolerances. 
+
 ## Known working cases from other designers
 All cases are open source and the designs belong to their respective publisher, and are only listed here to make them easy to find when building a Lotus 58 Keyboard.
 
@@ -22,6 +29,12 @@ All cases are open source and the designs belong to their respective publisher, 
 
 ### Stacked acrylic
 [HolySwitch - Lotus58 Stacked case](https://github.com/HolySwitch/lotus58-stacked-case) - Requires you to mount the controller on top.
+
+***
+### For anyone designing a case for the Lotus 58
+Please feel free to add your link and make a pull request, I'm happy to add any designs.  
+
+***
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
